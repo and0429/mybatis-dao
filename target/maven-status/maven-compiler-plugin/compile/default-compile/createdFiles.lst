@@ -1,0 +1,2 @@
+org\mybatis\basedao\BaseDao.class
+org\mybatis\basedao\impl\BaseDaoImpl.class
